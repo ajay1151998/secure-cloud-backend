@@ -1,0 +1,27 @@
+body {
+  background-color: dodgerblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.center {
+  background-color: rgb(255, 255, 255);
+  padding: 40px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo {
+  width: 100px;
+  height: 100px;
+}
+
+.btn {
+  text-decoration: none;
+  color: white;
+}
